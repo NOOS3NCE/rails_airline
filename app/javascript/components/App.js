@@ -2,7 +2,7 @@ import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Airlines from './Airlines/Airlines'
 import Airline from './Airline/Airline'
-console.log('this is main")
+console.log('this is main')
 const App = () => {
 	return (
 		<Routes>
